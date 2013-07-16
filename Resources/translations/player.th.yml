@@ -1,14 +1,14 @@
-'let a message': Leave a message
-'chat call': Chat call
-'audio call': Audio call
-'video call': Video call
-'information help': more information
-'faq help': more information
-'Your discussion has ended': Your conversation has ended.<br />Thank you for contacting us.
-'Please, rate this discussion': Your opinion matters to us.
-'Discussion helpful ?': Has this discussion been useful?
-'Would you recommend this experience to your friends?': Would you recommend this experience to your friends?
-'Any comments ?': Suggestions
+'let a message': ฝากข้อความ
+'chat call': สนทนาด้วยข้อความ
+'audio call': สนทานาด้วยเสียง
+'video call': สนทานาด้วยวิดีโอ
+'information help': ข้อมูลเพิ่มเติม
+'faq help': ข้อมูลเพิ่มเติม
+'Your discussion has ended': การสนทนาของคุณได้สิ้นสุดลงแล้ว<br />ขอบคุณสำหรับการติดต่อเรา
+'Please, rate this discussion': ความคิดเห็นของคุณเป็นสิ่งสำคัญสำหรับเรา
+'Discussion helpful ?': การสทนานี้มีประโยชน์หรือไม่?
+'Would you recommend this experience to your friends?': คุณอยากจะแนะนำประสบการณ์นี้ให้เพื่อนของคุณหรือไม่?
+'Any comments ?': ข้อเสนอแนะ
 'chat transcript': If you would like to receive the transcript of your discussion, please leave your e-mail address.
 'Webuser is typing': is writing...
 'Type your text here': Type your text here
